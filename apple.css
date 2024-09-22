@@ -1,0 +1,108 @@
+.row {
+  display: flex;
+  padding: 1rem;
+}
+
+.row1 {
+  display: flex;
+  padding: 1rem;
+}
+
+
+* {
+  text-decoration: none !important;
+}
+
+.herobg {
+  background-image: url("https://unsplash.com/photos/OTnE6TgxVCM/download?ixid=M3wxMjA3fDB8MXxzZWFyY2h8NzJ8fGlwaG9uZXxlbnwwfHx8fDE3MjYyODA2NjZ8MA&force=true&w=2400");
+  min-height: 80vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+p {
+  letter-spacing: 0.2rem;
+}
+
+.section {
+  padding: 100px 0;
+  margin-top: 10px;
+  background-image: url("https://img.freepik.com/free-photo/new-cell-phone-colorful-background_58702-4930.jpg?t=st=1726323953~exp=1726327553~hmac=882295d03dc5130f1ddeb7f2a1d567787068819417c043bcdb24f56689f11a88&w=900");
+  min-height: 80vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+p {
+  letter-spacing: 0.2rem;
+}
+
+.section2 {
+  padding: 60px 0;
+  margin-top: 10px;
+  background-image: url("https://img.freepik.com/free-vector/tablet-mock-up_53876-90955.jpg?t=st=1726326279~exp=1726329879~hmac=d8e5a39c20aba1f60690344d29f568dbc7c861372d9fb0a9cbfec744f432a880&w=740");
+  min-height: 80vh;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+p {
+  letter-spacing: 0.2rem;
+}
+
+.bgGrid1 {
+  /* padding: 60px 0;
+    margin-top: 5px; */
+  background-image: url("https://img.freepik.com/free-photo/new-cell-phone-colorful-background_58702-4901.jpg?t=st=1726326760~exp=1726330360~hmac=530d0d87e24818c1f2fdb4e24e5a7b8929f23c85bc60018adf62c4d4dc22ae4a&w=740");
+  height: 600px;
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 750px;
+  margin-right: 20px;
+}
+
+p {
+  letter-spacing: 0.2rem;
+}
+
+.bgGrid2 {
+  /* padding: 100px 0;
+    margin-top: 5px; */
+  background-image: url("https://img.freepik.com/free-psd/opened-laptop-mockup-floating_252953-20.jpg?w=900&t=st=1726392664~exp=1726393264~hmac=7ebfcbfc3a2211c4efbe50eb2b7353a154706844d9543b20385fd487e0df0233");
+  height: 600px;
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 750px;
+}
+
+.bgGrid3 {
+  /* padding: 100px 0;
+margin-top: 5px; */
+  background-image: url("https://img.freepik.com/free-photo/laptop-device-with-minimalist-monochrome-background_23-2150763335.jpg?t=st=1726495911~exp=1726499511~hmac=6c0fb20a0c306ca5fb64fc4fb9cfb5cc8f71f5ca3807932cbaa269432e316cdd&w=900");
+  height: 600px;
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 750px;
+  margin-right: 20px;
+}
+
+.bgGrid4 {
+  /* padding: 100px 0;
+    margin-top: 5px; */
+  background-image: url("https://img.freepik.com/free-photo/top-view-smartphone-notebook-arrangement_23-2149854989.jpg?t=st=1726495987~exp=1726499587~hmac=ec7a1bfd4b76cf0b73168ed8c4782c1a87d1aeec4305261a09817b4d30a29717&w=740");
+  height: 600px;
+  background-position: left;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 750px;
+}
+
+p {
+  letter-spacing: 0.2rem;
+}
